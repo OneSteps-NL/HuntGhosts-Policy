@@ -1,0 +1,1 @@
+# HuntGhosts-Policy

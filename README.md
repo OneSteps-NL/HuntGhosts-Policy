@@ -1,1 +1,5 @@
-# HuntGhosts-Policy
+# このリポジトリーにはOne Stepsが作成したHunt Ghostsに関する以下の内容が記載されています。
+
+・プライバシーポリシー
+
+・利用規約
